@@ -1,0 +1,252 @@
+/* 
+Em html id e em css #             Só pode ter um id por documento
+Em html class e em css é .        Pode ter varios
+*/
+
+:root {
+    --cor01: #c5ebd6;
+    --cor02: #83e1ad;
+    --cor03: #3ddc84;
+    --cor04: #2fa866;
+    --cor05: #1a5c37;
+
+}
+
+
+body{
+    font-family: Arial, Helvetica, sans-serif; 
+    border: 7px solid #3ddc84;
+    padding : 10px;
+    margin: 0px;
+}
+
+div.atranet {
+    text-align: center;
+}
+
+div.caixa {
+    color: rgb(0, 0, 0);
+    width: 40%;
+    background-color: rgb(201, 201, 200);
+    border-radius: 10px;
+    padding: 5px;
+    margin: auto;
+    
+}
+
+div.caixa:hover{
+    
+    border: 1px solid  rgb(70, 192, 22);
+
+}
+
+
+h1#titulo {
+    font-family: 'Merriweather', serif;
+    color: black;
+    text-align: center;         /* centralizar texto */
+    font-size: 35px;           /* tamanho da fonte */
+    height: 70px;              /* altura */
+    padding: 5px;              /* preenchimento */   
+}
+
+h1#titulo:hover {
+    font-size: 34px;
+    color: rgb(70, 192, 22);
+}
+
+
+a.interacion:hover { 
+    color: rgb(70, 192, 22);
+    font-size: 1.3em;
+}
+
+h1.caixatwo {    
+    text-align: center;
+    font-size: 19px;
+    width: 40%;
+    background-color: rgb(212, 212, 210);
+    border-radius: 10px;
+    padding: 5px;
+    margin: auto;
+}
+
+h1.caixatwo:hover{  
+
+    border: 1px solid  rgb(70, 192, 22);
+}
+
+h1.caixathree {
+    text-align: center;
+    font-size: 19px;
+    width: 40%;
+    background-color:rgb(212, 212, 210);
+    border-radius: 10px;
+    padding: 5px;
+    margin: auto;
+}
+
+h1.caixathree:hover{  
+     
+    border: 1px solid  rgb(70, 192, 22);
+}
+
+h1.caixafour {
+    text-align: center;
+    font-size: 19px;
+    width: 40%;
+    background-color:rgb(212, 212, 210);
+    border-radius: 10px;
+    padding: 5px;
+    margin: auto;
+    
+}
+
+h1.caixafour:hover{      
+    border: 1px solid  rgb(70, 192, 22);
+}
+
+
+img.samela {
+    border-radius: 2px;
+    height: 50px;
+    width: 50px;
+}
+
+img.samela:hover{
+    border: 1px solid  rgb(70, 192, 22);
+}
+
+img.availton {
+    border-radius: 19px;
+    height: 50px;
+    width: 50px;
+}
+
+img.availton:hover{
+    border: 1px solid  rgb(70, 192, 22);
+}
+
+img.lucas {
+    border-radius: 19px;
+    height: 50px;
+    width: 50px;
+}
+
+img.lucas:hover{
+    border: 1px solid  rgb(70, 192, 22);
+}
+
+img.alexandro {
+    border-radius: 19px;
+    height: 50px;
+    width: 50px;
+}
+
+img.alexandro:hover{
+    border: 1px solid  rgb(70, 192, 22);
+}
+
+img.alex {
+    border-radius: 19px;
+    height: 50px;
+    width: 50px;
+}
+
+img.alex:hover{
+    border: 1px solid  rgb(70, 192, 22);
+}
+
+img.liliane {
+    border-radius: 19px;
+    height: 50px;
+    width: 50px;
+}
+
+img.liliane:hover{
+    border: 1px solid  rgb(70, 192, 22);
+}
+
+img.robson {
+    border-radius: 19px;
+    height: 50px;
+    width: 50px;
+}
+
+img.robson:hover{
+    border: 1px solid  rgb(70, 192, 22);
+}
+
+img.beatriz {
+    border-radius: 19px;
+    height: 50px;
+    width: 50px;
+}
+
+img.beatriz:hover{
+    border: 1px solid  rgb(70, 192, 22);
+}
+
+img.raquel {
+    border-radius: 19px;
+    height: 50px;
+    width: 50px;
+}
+
+img.raquel:hover{
+    border: 1px solid  rgb(70, 192, 22);
+}
+
+img.erica {
+    border-radius: 19px;
+    height: 50px;
+    width: 50px;
+}
+
+img.erica:hover{
+    border: 1px solid  rgb(70, 192, 22);
+}
+
+img.aline {
+    border-radius: 19px;
+    height: 50px;
+    width: 50px;
+}
+
+img.aline:hover{
+    border: 1px solid  rgb(70, 192, 22);
+}
+
+img.insta {
+    width: 100px;
+    height:  100px;
+}
+
+img.face {
+    width: 100px;
+    height:  100px;
+}
+
+
+img.whats {
+    width: 100px;
+    height:  100px;
+    text-align: center;
+}
+
+div.redesSociais {
+    text-align: center;
+    margin: auto;
+}
+
+
+div.finish {
+    background-color: #2fa866;
+    text-align: center;
+    padding: 1px;
+}
+
+div.imagens {
+    margin: auto;
+    text-align: center;
+}
